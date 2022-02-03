@@ -7,3 +7,11 @@ String is a class
 #Syntax-of-String
 
 public final class String extends implements charSequence, Serializable, Comparable{
+
+To Create a String their are three classes:
+
+1) String Class
+
+2) Buffer Class
+
+3) Buffer Builder
