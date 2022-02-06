@@ -1,5 +1,5 @@
 
-    public class tut66 {
+    public class tut6 {
     public static void main(String[]args){
     String s="Deepak";
         System.out.println(s.toUpperCase());
